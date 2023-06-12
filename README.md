@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **JavaScript, Php, C**
 
-- 📫 How to reach me **alexanderofori@gmail.com**
+- 📫 How to reach me **alexanderofori07@gmail.com**
 
-- ⚡ Fun fact **I think i'm sociable even though i love being alone**
+- ⚡ Fun fact **I think i'm sociable even though some argue that i'm not**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
