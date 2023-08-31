@@ -1,6 +1,12 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Alexander Ofori</h1>
-<h3 align="center">Not Your everyday developer, but i'm a hopeful introvert.</h3>
+<h3 align="center">Your everyday developer and a hopeful introvert.</h3>
+<img alt="portfolio_section" width="100%" height="300" src="asserts/sign.png">
+- [My Portfolio] (https://ofori-alexander-y7kt.vercel.app/)
+
+- 💻 My Portlio's Live **Preview**
+
+
 <img align="right" alt="giffy-banner" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 - 🔭 I’m currently working on [Personal Laravel Blog As A Beginner](https://github.com/OforiAlexander/Personal-Blog-As-A-Beginner.git)
 
